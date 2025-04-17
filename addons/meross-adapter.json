@@ -1,0 +1,31 @@
+{
+  "id": "meross-adapter",
+  "name": "Meross",
+  "description": "Meross smart plug device support",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/meross-adapter",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/meross-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5",
+          "3.6",
+          "3.7",
+          "3.8",
+          "3.9"
+        ]
+      },
+      "version": "0.4.2",
+      "url": "https://github.com/WebThingsIO/meross-adapter/releases/download/v0.4.2/meross-adapter-0.4.2.tgz",
+      "checksum": "93d32131b2a76a5486e5c5b9368b58843935f705699ad50d29eb2349b4ebd63a",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

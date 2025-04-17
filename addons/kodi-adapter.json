@@ -1,0 +1,31 @@
+{
+  "id": "kodi-adapter",
+  "name": "Kodi",
+  "description": "Show notifications on your media player",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/kodi-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/kodi-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.2.2",
+      "url": "https://github.com/tim-hellhake/kodi-adapter/releases/download/0.2.2/kodi-adapter-0.2.2.tgz",
+      "checksum": "e58b0441dca1a671b7baab62f8a9be569c9148c7870881825cf9bbba75bc01bf",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

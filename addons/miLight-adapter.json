@@ -1,0 +1,27 @@
+{
+  "id": "miLight-adapter",
+  "name": "miLight",
+  "description": "Connect your miLight devices",
+  "author": "atirage",
+  "homepage_url": "https://github.com/atirage/miLight-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/atirage/miLight-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.0.6",
+      "url": "https://github.com/atirage/miLight-adapter/releases/download/v0.0.6/miLight-adapter-0.0.6.tgz",
+      "checksum": "9086d87b4b0b69d043b9ffcfe7b244c469724a400e9ff6a9c1bc3eb22a48aec0",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

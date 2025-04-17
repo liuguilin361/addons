@@ -1,0 +1,31 @@
+{
+  "id": "github-adapter",
+  "name": "GitHub",
+  "description": "Watch the issue count of your favourite GitHub repos",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/github-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/github-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.2.0",
+      "url": "https://github.com/tim-hellhake/github-adapter/releases/download/0.2.0/github-adapter-0.2.0.tgz",
+      "checksum": "e538ab1857e86908a0cba7a94eb9f022db42f1aa8f1020bb1bbe65123b610547",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

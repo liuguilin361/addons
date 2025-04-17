@@ -1,0 +1,27 @@
+{
+  "id": "sonos-adapter",
+  "name": "Sonos",
+  "description": "Sonos player support",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/sonos-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/sonos-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.11.0",
+      "url": "https://github.com/tim-hellhake/sonos-adapter/releases/download/0.11.0/sonos-adapter-0.11.0.tgz",
+      "checksum": "9a081cf798de830a637f832c6d2d3c10eed7578a8ba91971619b1f6bb59713d7",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    }
+  ]
+}

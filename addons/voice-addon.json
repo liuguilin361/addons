@@ -1,0 +1,203 @@
+{
+  "id": "voice-addon",
+  "name": "Voice Control",
+  "description": "Hands-free voice addon with personalized keyword and local voice processing.",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/voice-addon",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/voice-addon/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-linux-arm-v10.tgz",
+      "checksum": "6654066a692f9b2975d1ddb0801564e175123767aa7160efb687aa3c67692c6d",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-linux-arm64-v10.tgz",
+      "checksum": "893316b3710b864301cb2a319948f27ff5c0e26f4e4f8b2c87ab08ba0ea1e5ec",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-linux-x64-v10.tgz",
+      "checksum": "5793a4db13af488757fb9ba425475dc4503217ae57585d2d5c5d8e2a23f17d77",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-darwin-x64-v10.tgz",
+      "checksum": "4cc0ca80187a9bea60f47115846afd83aa5e4da2bf02c6427953ca921e0aefb2",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-linux-arm-v12.tgz",
+      "checksum": "5bd4b2eda473ebe5059a363214bbed0ae2d90c5213dc6f865f42c5460346369d",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-linux-arm64-v12.tgz",
+      "checksum": "195a8c1597577d8e47ceced49f1ad2d87da9a1527b9c4df3b856a480e47b03a0",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-linux-x64-v12.tgz",
+      "checksum": "1125e8d2c9b3159f12202e9acde8f0cebc4bb1ef28cc3c87d66b147521d6f3bd",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-darwin-x64-v12.tgz",
+      "checksum": "7a6b27ee2ed274c9625492f94b6db3ae3e2b7c52ca8b8881c4ddc69e0ef69df2",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-linux-arm-v14.tgz",
+      "checksum": "9cd1396bec6122d2372f05733c91e9aca84f1042ab31f48a9a84026ff6074cd7",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-linux-arm64-v14.tgz",
+      "checksum": "d811df17dd7a26db556371fad66a3a2dbfe5c9686fe34f532d955ddeb332f0b3",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-linux-x64-v14.tgz",
+      "checksum": "55b6323002eef6591c3f6042e4cadeba89d1b0401a960472ee7457b0ccb7b143",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-darwin-x64-v14.tgz",
+      "checksum": "87e485827191ab3d261822292ba2cb248976d4cc5e27b1a359201adc5c060687",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

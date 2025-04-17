@@ -1,0 +1,31 @@
+{
+  "id": "tts-adapter",
+  "name": "Text-to-Speech",
+  "description": "Reads texts for you",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/tts-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/tts-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.1.4",
+      "url": "https://github.com/tim-hellhake/tts-adapter/releases/download/0.1.4/tts-adapter-0.1.4.tgz",
+      "checksum": "1a9ab5794826c6ed42c83af4e3bd8086e1f9fc6d4a5b33e7b261b85981b93011",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

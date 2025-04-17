@@ -1,0 +1,203 @@
+{
+  "id": "insteon-adapter",
+  "name": "INSTEON",
+  "description": "INSTEON device support",
+  "author": "James Willcox",
+  "homepage_url": "https://github.com/snorp/insteon-adapter",
+  "license_url": "https://raw.githubusercontent.com/snorp/insteon-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "1.0.2",
+      "url": "https://github.com/snorp/insteon-adapter/releases/download/v1.0.2/insteon-adapter-1.0.2-linux-arm-v10.tgz",
+      "checksum": "4fdb8d776bdf26b60ec9f662ef7c9785c39c94044fb04f038bb74765811c7aee",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "1.0.2",
+      "url": "https://github.com/snorp/insteon-adapter/releases/download/v1.0.2/insteon-adapter-1.0.2-linux-arm64-v10.tgz",
+      "checksum": "f3e4c8c7113154322d9e54dc930022899cd8de714f50a8e0459b3ae3425ad14b",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "1.0.2",
+      "url": "https://github.com/snorp/insteon-adapter/releases/download/v1.0.2/insteon-adapter-1.0.2-linux-x64-v10.tgz",
+      "checksum": "c0a9c815f7f19bfb053ac6324b61f6ae815022c45b0a0bb404e11b83f5f6cd40",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "1.0.2",
+      "url": "https://github.com/snorp/insteon-adapter/releases/download/v1.0.2/insteon-adapter-1.0.2-darwin-x64-v10.tgz",
+      "checksum": "38e2f95754c6fa4eb188d49af22f3c1493311ff61d6392c106289b0019a3d8e4",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "1.0.2",
+      "url": "https://github.com/snorp/insteon-adapter/releases/download/v1.0.2/insteon-adapter-1.0.2-linux-arm-v12.tgz",
+      "checksum": "2e1f20541b45188e416f75430b9f39fcf93ba92ae401c3c997fa58e2eda118b1",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "1.0.2",
+      "url": "https://github.com/snorp/insteon-adapter/releases/download/v1.0.2/insteon-adapter-1.0.2-linux-arm64-v12.tgz",
+      "checksum": "735aa8a86fbe43a9eff40be01edc88d888d36a508aedd1b5fcfc0d76c2250e05",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "1.0.2",
+      "url": "https://github.com/snorp/insteon-adapter/releases/download/v1.0.2/insteon-adapter-1.0.2-linux-x64-v12.tgz",
+      "checksum": "9c7187a0fb5acb95effa56be52b977fd8729246d0fee5079a1ddadc009512698",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "1.0.2",
+      "url": "https://github.com/snorp/insteon-adapter/releases/download/v1.0.2/insteon-adapter-1.0.2-darwin-x64-v12.tgz",
+      "checksum": "2c32f4f45fda2fc701b86a6d2ed54dccdf620eef2717663752967364fc9bb6bc",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "1.0.2",
+      "url": "https://github.com/snorp/insteon-adapter/releases/download/v1.0.2/insteon-adapter-1.0.2-linux-arm-v14.tgz",
+      "checksum": "a0faf33d10871f93bee178f332312ab77c212db0ce1622fa336ce1d2d89c087e",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "1.0.2",
+      "url": "https://github.com/snorp/insteon-adapter/releases/download/v1.0.2/insteon-adapter-1.0.2-linux-arm64-v14.tgz",
+      "checksum": "0c1db14aee62c48c774499cbd4f5df7e4234742ba03d12ecf1a3c42b2b6c368a",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "1.0.2",
+      "url": "https://github.com/snorp/insteon-adapter/releases/download/v1.0.2/insteon-adapter-1.0.2-linux-x64-v14.tgz",
+      "checksum": "96c97a35d785f582c7c044a4f1676e87c59d3a40fc8b4f7383bcacd6ec470509",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "1.0.2",
+      "url": "https://github.com/snorp/insteon-adapter/releases/download/v1.0.2/insteon-adapter-1.0.2-darwin-x64-v14.tgz",
+      "checksum": "c9f641004bdec5a41d702c15540e8b35e17f0eec9120a1de3f7ebaf1745e7d6e",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

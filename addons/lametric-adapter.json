@@ -1,0 +1,31 @@
+{
+  "id": "lametric-adapter",
+  "name": "LaMetric",
+  "description": "Send notifications to your LaMetric",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/lametric-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/lametric-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/lametric-adapter/releases/download/0.2.1/lametric-adapter-0.2.1.tgz",
+      "checksum": "5d58a9f0532714bc787b102728557c15e7b74ec47023be4f881400ad3af96194",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

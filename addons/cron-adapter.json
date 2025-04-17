@@ -1,0 +1,27 @@
+{
+  "id": "cron-adapter",
+  "name": "Cron",
+  "description": "Allows you to use cron expressions as a trigger",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/cron-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/cron-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.2.7",
+      "url": "https://github.com/tim-hellhake/cron-adapter/releases/download/0.2.7/cron-adapter-0.2.7.tgz",
+      "checksum": "02d373aa8308e810172dec8651cdd9a1ff670089d6801b79f962e16ad2ef01f7",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

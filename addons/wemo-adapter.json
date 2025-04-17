@@ -1,0 +1,31 @@
+{
+  "id": "wemo-adapter",
+  "name": "Wemo",
+  "description": "Wemo smart device support",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/wemo-adapter",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/wemo-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5",
+          "3.6",
+          "3.7",
+          "3.8",
+          "3.9"
+        ]
+      },
+      "version": "0.3.3",
+      "url": "https://github.com/WebThingsIO/wemo-adapter/releases/download/v0.3.3/wemo-adapter-0.3.3.tgz",
+      "checksum": "ce205589e04777cd34880f21631b767907471874a4c6e8d72311953ef6c18f79",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

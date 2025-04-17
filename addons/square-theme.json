@@ -1,0 +1,24 @@
+{
+  "id": "square-theme",
+  "name": "Square Theme",
+  "description": "A theme that offers a more square design, and adds features such as log filtering, setpoint buttons, and various little tweaks.",
+  "author": "Flatsiedatsie",
+  "homepage_url": "https://github.com/flatsiedatsie/square-theme",
+  "license_url": "https://raw.githubusercontent.com/flatsiedatsie/square-theme/master/LICENSE",
+  "primary_type": "extension",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "none"
+      },
+      "version": "1.0.6",
+      "url": "https://github.com/flatsiedatsie/square-theme/releases/download/1.0.6/square-theme-1.0.6.tgz",
+      "checksum": "32364f524706e8aca2c61e3985d325296721ebec8590ab7a1ed9be4bfa2613b4",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

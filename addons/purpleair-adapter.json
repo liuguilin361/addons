@@ -1,0 +1,27 @@
+{
+  "id": "purpleair-adapter",
+  "name": "Purpleair",
+  "description": "Add purpleair sensor nodes to your gateway",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/purpleair-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/purpleair-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "1.2.1",
+      "url": "https://github.com/tim-hellhake/purpleair-adapter/releases/download/1.2.1/purpleair-adapter-1.2.1.tgz",
+      "checksum": "2b3c62cf605db17d589886aece3a6d52ecee918251ee988f232a1f2c18fdfa95",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

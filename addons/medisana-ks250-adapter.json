@@ -1,0 +1,203 @@
+{
+  "id": "medisana-ks250-adapter",
+  "name": "Medisana KS 250",
+  "description": "Connect your Medisana KS 250 (kitchen scale)",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/medisana-ks250-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/medisana-ks250-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.6",
+      "url": "https://github.com/tim-hellhake/medisana-ks250-adapter/releases/download/0.1.6/medisana-ks250-adapter-0.1.6-linux-arm-v10.tgz",
+      "checksum": "52a58f745ea2fff9f13d28ac878bee1f67da3b799dd46850d233f9d0e94ae5e6",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.6",
+      "url": "https://github.com/tim-hellhake/medisana-ks250-adapter/releases/download/0.1.6/medisana-ks250-adapter-0.1.6-linux-arm64-v10.tgz",
+      "checksum": "58c619abb2b537f59ab8e873497d2a7c624fed87b07c6459a98d2e94a66eddcf",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.6",
+      "url": "https://github.com/tim-hellhake/medisana-ks250-adapter/releases/download/0.1.6/medisana-ks250-adapter-0.1.6-linux-x64-v10.tgz",
+      "checksum": "56464f6f2caeb389551e80b69c2b40953453be080fc5485fc7bc1ad99314145f",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.6",
+      "url": "https://github.com/tim-hellhake/medisana-ks250-adapter/releases/download/0.1.6/medisana-ks250-adapter-0.1.6-darwin-x64-v10.tgz",
+      "checksum": "3848fca40e14a56f293ae711a69e8b2666e98e547fe76e2efdeec8caa743fbe7",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.6",
+      "url": "https://github.com/tim-hellhake/medisana-ks250-adapter/releases/download/0.1.6/medisana-ks250-adapter-0.1.6-linux-arm-v12.tgz",
+      "checksum": "b3f11abe753dc3d45c126c84084e798a5e2adf7b5a2164ffe62b7387c9fda1d3",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.6",
+      "url": "https://github.com/tim-hellhake/medisana-ks250-adapter/releases/download/0.1.6/medisana-ks250-adapter-0.1.6-linux-arm64-v12.tgz",
+      "checksum": "baacb6fafe6f79d2ccbbe1f1860234e6664eb98b1e4c754ab8b186f6f9354d0f",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.6",
+      "url": "https://github.com/tim-hellhake/medisana-ks250-adapter/releases/download/0.1.6/medisana-ks250-adapter-0.1.6-linux-x64-v12.tgz",
+      "checksum": "3a6aaae1f47d2339e6858bb2475c856800d1a5e31d013e91d005ac5dc2d23233",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.6",
+      "url": "https://github.com/tim-hellhake/medisana-ks250-adapter/releases/download/0.1.6/medisana-ks250-adapter-0.1.6-darwin-x64-v12.tgz",
+      "checksum": "4b4e39fcc4149b3fbf18c6037da910f1db7839cb2498b9b4c8a7ffb2f7d897f8",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.6",
+      "url": "https://github.com/tim-hellhake/medisana-ks250-adapter/releases/download/0.1.6/medisana-ks250-adapter-0.1.6-linux-arm-v14.tgz",
+      "checksum": "681f62a8c2ab974cc0ec1278876736c832c3cf8de99847c5c0770cdd90141846",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.6",
+      "url": "https://github.com/tim-hellhake/medisana-ks250-adapter/releases/download/0.1.6/medisana-ks250-adapter-0.1.6-linux-arm64-v14.tgz",
+      "checksum": "9ad818d454ff90dd3d1f9fec162975ab1c08084900c3ae0dde7210d8409098f9",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.6",
+      "url": "https://github.com/tim-hellhake/medisana-ks250-adapter/releases/download/0.1.6/medisana-ks250-adapter-0.1.6-linux-x64-v14.tgz",
+      "checksum": "890a7bbeaffbf8f412d16cb05392a15d7042160292cc6a3d0fb24e86f7fb5aaf",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.6",
+      "url": "https://github.com/tim-hellhake/medisana-ks250-adapter/releases/download/0.1.6/medisana-ks250-adapter-0.1.6-darwin-x64-v14.tgz",
+      "checksum": "db04fd1f8ba1357a04e5d74ad63307bb849edb555d7bba594e37ce8cb99d8f80",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

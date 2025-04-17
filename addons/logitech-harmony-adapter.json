@@ -1,0 +1,31 @@
+{
+  "id": "logitech-harmony-adapter",
+  "name": "Logitech Harmony",
+  "description": "Logitech Harmony Hub support",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/logitech-harmony-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/logitech-harmony-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.2.10",
+      "url": "https://github.com/tim-hellhake/logitech-harmony-adapter/releases/download/0.2.10/logitech-harmony-adapter-0.2.10.tgz",
+      "checksum": "b04391189e4b0dfc4db0328e65f14a90884cfad53288097b0b01999505af1323",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

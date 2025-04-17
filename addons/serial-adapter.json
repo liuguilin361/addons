@@ -1,0 +1,203 @@
+{
+  "id": "serial-adapter",
+  "name": "Serial",
+  "description": "Serial JSON interface to serial-mcu",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/serial-adapter",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/serial-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.5.3",
+      "url": "https://github.com/WebThingsIO/serial-adapter/releases/download/v0.5.3/serial-adapter-0.5.3-linux-arm-v10.tgz",
+      "checksum": "84e9d7c874fdc92a08e5c7993fbee86cc60db4a5fdd434bbc440fc6abcb3ab08",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.5.3",
+      "url": "https://github.com/WebThingsIO/serial-adapter/releases/download/v0.5.3/serial-adapter-0.5.3-linux-arm64-v10.tgz",
+      "checksum": "0ac6742e831753249de755fc95ca6f28e3131d3a545868942bc886d8596ea5b1",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.5.3",
+      "url": "https://github.com/WebThingsIO/serial-adapter/releases/download/v0.5.3/serial-adapter-0.5.3-linux-x64-v10.tgz",
+      "checksum": "a3d821a9861c358b039b9613da40cc5716790288de58b709b6290ada633e4d73",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.5.3",
+      "url": "https://github.com/WebThingsIO/serial-adapter/releases/download/v0.5.3/serial-adapter-0.5.3-darwin-x64-v10.tgz",
+      "checksum": "bc776bb0cda8a77f6988eca963047534397242c521a62073c0f7bff40f10f8fb",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.5.3",
+      "url": "https://github.com/WebThingsIO/serial-adapter/releases/download/v0.5.3/serial-adapter-0.5.3-linux-arm-v12.tgz",
+      "checksum": "db99241a16e32a47b9aa1f9538613163262a6d6e62a77ab54a95f845e0c61c92",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.5.3",
+      "url": "https://github.com/WebThingsIO/serial-adapter/releases/download/v0.5.3/serial-adapter-0.5.3-linux-arm64-v12.tgz",
+      "checksum": "cce929c2a63dcb30d9889824e666e38d5beb6a9a85a6ae435aad74cd612b8bc2",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.5.3",
+      "url": "https://github.com/WebThingsIO/serial-adapter/releases/download/v0.5.3/serial-adapter-0.5.3-linux-x64-v12.tgz",
+      "checksum": "4c6788cc25101ae83f68cf68317490df37872ca0e602abb7f6131bd59ed12da2",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.5.3",
+      "url": "https://github.com/WebThingsIO/serial-adapter/releases/download/v0.5.3/serial-adapter-0.5.3-darwin-x64-v12.tgz",
+      "checksum": "73f5831cc9c863a52043acb74a1f4fd1448a29394e445cadb5db95ed26fb8d4a",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.5.3",
+      "url": "https://github.com/WebThingsIO/serial-adapter/releases/download/v0.5.3/serial-adapter-0.5.3-linux-arm-v14.tgz",
+      "checksum": "e9d29fe2926f376f522179ad2de4f92f326f67b3a658681e9f5678bb399c8112",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.5.3",
+      "url": "https://github.com/WebThingsIO/serial-adapter/releases/download/v0.5.3/serial-adapter-0.5.3-linux-arm64-v14.tgz",
+      "checksum": "cc721e3507b42a5d0f2cd94ca09717dbba4d2db575089edbdd225c2f9c39751e",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.5.3",
+      "url": "https://github.com/WebThingsIO/serial-adapter/releases/download/v0.5.3/serial-adapter-0.5.3-linux-x64-v14.tgz",
+      "checksum": "9f65ea49f806e8ebccb58961771fd257f871bcd862b80796baae6305ae51663d",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.5.3",
+      "url": "https://github.com/WebThingsIO/serial-adapter/releases/download/v0.5.3/serial-adapter-0.5.3-darwin-x64-v14.tgz",
+      "checksum": "8d4afa71b62a55216372c4ef85ef28027488d9fdf4becd8847a329d7e4037117",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

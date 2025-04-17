@@ -1,0 +1,203 @@
+{
+  "id": "mi-flora-adapter",
+  "name": "Mi Flora",
+  "description": "Connect your Mi Flora devices",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/mi-flora-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/mi-flora-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "1.0.1",
+      "url": "https://github.com/tim-hellhake/mi-flora-adapter/releases/download/1.0.1/mi-flora-adapter-1.0.1-linux-arm-v10.tgz",
+      "checksum": "78677134c473442285ea19c09e8f995226388d2fa49aa8894dde2351b952765f",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "1.0.1",
+      "url": "https://github.com/tim-hellhake/mi-flora-adapter/releases/download/1.0.1/mi-flora-adapter-1.0.1-linux-arm64-v10.tgz",
+      "checksum": "b1f24b7ccadae0cf57286c419a5fecb61694b413acc1edd419416d241ef3e678",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "1.0.1",
+      "url": "https://github.com/tim-hellhake/mi-flora-adapter/releases/download/1.0.1/mi-flora-adapter-1.0.1-linux-x64-v10.tgz",
+      "checksum": "838383871215f8b44a999d06f5a3bee9006d21193066f8a24290fcba2367f1d3",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "1.0.1",
+      "url": "https://github.com/tim-hellhake/mi-flora-adapter/releases/download/1.0.1/mi-flora-adapter-1.0.1-darwin-x64-v10.tgz",
+      "checksum": "9899991313cdc6d603188e40ae53dd8d5a9ac19c2d7d1ec6f52c7ff7290ecd74",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "1.0.1",
+      "url": "https://github.com/tim-hellhake/mi-flora-adapter/releases/download/1.0.1/mi-flora-adapter-1.0.1-linux-arm-v12.tgz",
+      "checksum": "75ee64a5d34b4c5f47403b7f90c9a9b03b4700c33e0e065b727feceea8761af6",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "1.0.1",
+      "url": "https://github.com/tim-hellhake/mi-flora-adapter/releases/download/1.0.1/mi-flora-adapter-1.0.1-linux-arm64-v12.tgz",
+      "checksum": "f77cd3a6060322bc3dc489aee0bf80e306c13299db2130ad16b7d5923dac0401",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "1.0.1",
+      "url": "https://github.com/tim-hellhake/mi-flora-adapter/releases/download/1.0.1/mi-flora-adapter-1.0.1-linux-x64-v12.tgz",
+      "checksum": "1c86596deba7f1a8b855d8b73e3144e8f22ba36e61c7e4588a7f454144da1e34",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "1.0.1",
+      "url": "https://github.com/tim-hellhake/mi-flora-adapter/releases/download/1.0.1/mi-flora-adapter-1.0.1-darwin-x64-v12.tgz",
+      "checksum": "66e88ea8a4bae90686d2f43d6efe36c9ade0a2d8c00aa95ba5f5235bc0474192",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "1.0.1",
+      "url": "https://github.com/tim-hellhake/mi-flora-adapter/releases/download/1.0.1/mi-flora-adapter-1.0.1-linux-arm-v14.tgz",
+      "checksum": "6a91c59e25faa4164da067b751fdcf0d187a4fc97897d42cdadc7d5bfe861490",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "1.0.1",
+      "url": "https://github.com/tim-hellhake/mi-flora-adapter/releases/download/1.0.1/mi-flora-adapter-1.0.1-linux-arm64-v14.tgz",
+      "checksum": "2336663ee776abebf08a8c37e628ecd8f2811a1ed05a4beb97b2c099a4863b3c",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "1.0.1",
+      "url": "https://github.com/tim-hellhake/mi-flora-adapter/releases/download/1.0.1/mi-flora-adapter-1.0.1-linux-x64-v14.tgz",
+      "checksum": "7427ea846814c6d889f3f086e96982ad79487d4c59554e4ab680501f2895e78b",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "1.0.1",
+      "url": "https://github.com/tim-hellhake/mi-flora-adapter/releases/download/1.0.1/mi-flora-adapter-1.0.1-darwin-x64-v14.tgz",
+      "checksum": "411411b274b132b734d021a821568185b6709215d598db53cfd3fd1310bd9ffb",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

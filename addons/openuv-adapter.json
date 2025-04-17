@@ -1,0 +1,31 @@
+{
+  "id": "openuv-adapter",
+  "name": "OpenUV - Clear sky UV index",
+  "description": "Get the current uv index from www.openuv.io",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/openuv-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/openuv-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.5.1",
+      "url": "https://github.com/tim-hellhake/openuv-adapter/releases/download/0.5.1/openuv-adapter-0.5.1.tgz",
+      "checksum": "0db1bbd40994876dd62d03c95c64d727ae2c574005a68f5756257b60f58c80da",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

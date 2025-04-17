@@ -1,0 +1,31 @@
+{
+  "id": "sengled-adapter",
+  "name": "Sengled",
+  "description": "Sengled Wi-Fi smart bulb device support",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/sengled-adapter",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/sengled-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5",
+          "3.6",
+          "3.7",
+          "3.8",
+          "3.9"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://github.com/WebThingsIO/sengled-adapter/releases/download/v0.3.2/sengled-adapter-0.3.2.tgz",
+      "checksum": "4fef2b51b7522178c55404b9c310c55750f349310aa741f2fc16ae5c9379b0a9",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "timer-adapter",
+  "name": "Timer",
+  "description": "Runs for the specified number of seconds",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/timer-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/timer-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "1.6.2",
+      "url": "https://github.com/tim-hellhake/timer-adapter/releases/download/1.6.2/timer-adapter-1.6.2.tgz",
+      "checksum": "78bc98292250150790278c87d12824ad4e94f9f41ac0a36f61c22f15d9005c27",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

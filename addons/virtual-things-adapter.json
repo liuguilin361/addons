@@ -1,0 +1,27 @@
+{
+  "id": "virtual-things-adapter",
+  "name": "Virtual Things",
+  "description": "Virtual Things for experimenting with new thing types",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/virtual-things-adapter",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/virtual-things-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.11.0",
+      "url": "https://github.com/WebThingsIO/virtual-things-adapter/releases/download/v0.11.0/virtual-things-adapter-0.11.0.tgz",
+      "checksum": "b47319271a7abffd6482653939bd638c160dc72c97d2eefd24967704e7051c87",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

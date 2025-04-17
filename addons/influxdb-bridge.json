@@ -1,0 +1,203 @@
+{
+  "id": "influxdb-bridge",
+  "name": "InfluxDB",
+  "description": "Save your device states to an InfluxDB",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/influxdb-bridge#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/influxdb-bridge/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.5.1",
+      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.1/influxdb-bridge-0.5.1-linux-arm-v10.tgz",
+      "checksum": "7ee9cff634bc384dcce0e414d0dad60a2b75a00c0e2a6a48bce7bda0e869bfc3",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.5.1",
+      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.1/influxdb-bridge-0.5.1-linux-arm64-v10.tgz",
+      "checksum": "2a646e4dca242e9ea18b34f803ad1fe39ab7599a3262e96d4b1bc43363992a49",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.5.1",
+      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.1/influxdb-bridge-0.5.1-linux-x64-v10.tgz",
+      "checksum": "5cdcb3cd54f76dcb8aeb5fbfbcfb496faff660c39d738ba2c89686f6f3f31e10",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.5.1",
+      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.1/influxdb-bridge-0.5.1-darwin-x64-v10.tgz",
+      "checksum": "5eabc52166747b36c662cdac4aff28fd65149eec8dd558e2caf6fab25de0516e",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.5.1",
+      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.1/influxdb-bridge-0.5.1-linux-arm-v12.tgz",
+      "checksum": "8550c025faf5b74ab85828d99d6f642fd6a72f4f10b0622170c7fbe9d4aca6b3",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.5.1",
+      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.1/influxdb-bridge-0.5.1-linux-arm64-v12.tgz",
+      "checksum": "7b0c5642e8b51f4140763c2d3cf63bde5679229820f07a3b520cf23c73be47fc",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.5.1",
+      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.1/influxdb-bridge-0.5.1-linux-x64-v12.tgz",
+      "checksum": "1c63b96f654aeb9829160e0752fddd077094d7be7b1a023c30aec492a5e876e3",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.5.1",
+      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.1/influxdb-bridge-0.5.1-darwin-x64-v12.tgz",
+      "checksum": "c6a87c15aad557800468545321cb0b03c3278e6c200432a603a20023477dba3d",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.5.1",
+      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.1/influxdb-bridge-0.5.1-linux-arm-v14.tgz",
+      "checksum": "dd8fac3f7762a0c47ad61780d04ce4d38f642484a798c9d2a0b6693e32902169",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.5.1",
+      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.1/influxdb-bridge-0.5.1-linux-arm64-v14.tgz",
+      "checksum": "6d548a3ee142284c8e84a02199873109c11ba5e5990f58145ca322760aafd7cb",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.5.1",
+      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.1/influxdb-bridge-0.5.1-linux-x64-v14.tgz",
+      "checksum": "c31070669fe3941cdc384fa1fdf4bdb040b82b905c3da65ba465b089444480d9",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.5.1",
+      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.1/influxdb-bridge-0.5.1-darwin-x64-v14.tgz",
+      "checksum": "e61130bcd92fcd3aacdf094318d4690dd0c6c394a309484d863d51614dd8f9c8",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

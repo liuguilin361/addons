@@ -1,0 +1,28 @@
+{
+  "id": "example-adapter",
+  "name": "Example Adapter",
+  "description": "Example adapter add-on for developers",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/example-adapter",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/example-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.6.4",
+      "url": "https://github.com/WebThingsIO/example-adapter/releases/download/v0.6.4/example-adapter-0.6.4.tgz",
+      "checksum": "232d21572f16a8a4ec53ed7e9b46cc26c451094f3c1a6e797a85d97de1f06ae4",
+      "test_only": true,
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

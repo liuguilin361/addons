@@ -1,0 +1,203 @@
+{
+  "id": "x10-cm11-adapter",
+  "name": "X10 (CM11)",
+  "description": "X10 device support through the CM11 interface.",
+  "author": "Alan Thiessen",
+  "homepage_url": "https://github.com/AlanDThiessen/x10-cm11-adapter",
+  "license_url": "https://raw.githubusercontent.com/AlanDThiessen/x10-cm11-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.5.1",
+      "url": "https://github.com/AlanDThiessen/x10-cm11-adapter/releases/download/v0.5.1/x10-cm11-adapter-0.5.1-linux-arm-v10.tgz",
+      "checksum": "c62412d87f4e62d639bf1b40e1def6e194817575725e54bf9899fae95b712273",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.5.1",
+      "url": "https://github.com/AlanDThiessen/x10-cm11-adapter/releases/download/v0.5.1/x10-cm11-adapter-0.5.1-linux-arm64-v10.tgz",
+      "checksum": "c5adea41c5705e548b9895727de193fb84eda9fb28f828d781efe750db343d22",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.5.1",
+      "url": "https://github.com/AlanDThiessen/x10-cm11-adapter/releases/download/v0.5.1/x10-cm11-adapter-0.5.1-linux-x64-v10.tgz",
+      "checksum": "4258f74d54ad2b215f55cf0df986d35686e9c2b1d24189a4f46217764b19b6ec",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.5.1",
+      "url": "https://github.com/AlanDThiessen/x10-cm11-adapter/releases/download/v0.5.1/x10-cm11-adapter-0.5.1-darwin-x64-v10.tgz",
+      "checksum": "ee1f1d092e814652bb161b57dc153944442e717f438763bbe5d4353f0d7cc5d1",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.5.1",
+      "url": "https://github.com/AlanDThiessen/x10-cm11-adapter/releases/download/v0.5.1/x10-cm11-adapter-0.5.1-linux-arm-v12.tgz",
+      "checksum": "eda5d8ad92c79226c23299160b90563d0449ee87960ed714d8f02196c11bd489",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.5.1",
+      "url": "https://github.com/AlanDThiessen/x10-cm11-adapter/releases/download/v0.5.1/x10-cm11-adapter-0.5.1-linux-arm64-v12.tgz",
+      "checksum": "2e52a85857aaaa387580d7b4b3d06c66666623017d6cc0bc037f99bc2e785d23",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.5.1",
+      "url": "https://github.com/AlanDThiessen/x10-cm11-adapter/releases/download/v0.5.1/x10-cm11-adapter-0.5.1-linux-x64-v12.tgz",
+      "checksum": "5a7c753357d3790b18de1007b53c01cc81af44c0674e6ad2e92f2b97963d3b3c",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.5.1",
+      "url": "https://github.com/AlanDThiessen/x10-cm11-adapter/releases/download/v0.5.1/x10-cm11-adapter-0.5.1-darwin-x64-v12.tgz",
+      "checksum": "e776574f1939563304e4e0bde7a8f3fd33d45c93de8087b0ad5a06697b88225b",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.5.1",
+      "url": "https://github.com/AlanDThiessen/x10-cm11-adapter/releases/download/v0.5.1/x10-cm11-adapter-0.5.1-linux-arm-v14.tgz",
+      "checksum": "19b05c74a2ebfc810254390a475d64aa7ad6b245283a12ff7b3ff492553dc6a0",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.5.1",
+      "url": "https://github.com/AlanDThiessen/x10-cm11-adapter/releases/download/v0.5.1/x10-cm11-adapter-0.5.1-linux-arm64-v14.tgz",
+      "checksum": "f37e18ac1bd660ded8d092e8c36e4617280117f7513a6bce3b982ab8b1650665",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.5.1",
+      "url": "https://github.com/AlanDThiessen/x10-cm11-adapter/releases/download/v0.5.1/x10-cm11-adapter-0.5.1-linux-x64-v14.tgz",
+      "checksum": "8f927b6be66be1b012a5558219c7c6213f537cc0f869a9fb3a22cbd52c317db8",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.5.1",
+      "url": "https://github.com/AlanDThiessen/x10-cm11-adapter/releases/download/v0.5.1/x10-cm11-adapter-0.5.1-darwin-x64-v14.tgz",
+      "checksum": "406651180f57523bd42bef3baf5f4e5bf1a6439585e283fa02be22a3794ad720",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

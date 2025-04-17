@@ -1,0 +1,31 @@
+{
+  "id": "airport",
+  "name": "Airport",
+  "description": "Stream audio or even your desktop to your Gateway over Airplay",
+  "author": "Flatsiedatsie",
+  "homepage_url": "https://github.com/flatsiedatsie/airport",
+  "license_url": "https://raw.githubusercontent.com/flatsiedatsie/airport/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5",
+          "3.6",
+          "3.7",
+          "3.8",
+          "3.9"
+        ]
+      },
+      "version": "1.0.2",
+      "url": "https://github.com/flatsiedatsie/airport/releases/download/1.0.2/airport-1.0.2.tgz",
+      "checksum": "f7764b816d373538d31a86fc1a8c61a5969e424de41f4cec106a76eb4541bd03",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

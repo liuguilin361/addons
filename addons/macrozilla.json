@@ -1,0 +1,267 @@
+{
+  "id": "macrozilla",
+  "name": "Macros",
+  "description": "Use macros to create advanced rules",
+  "author": "bewee",
+  "homepage_url": "https://github.com/bewee/macrozilla",
+  "license_url": "https://raw.githubusercontent.com/bewee/macrozilla/master/LICENSE.md",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.1.13",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.13/macrozilla-0.1.13-linux-arm-v8.tgz",
+      "checksum": "1956319d33447e856cad547fe1add12f64b621a12a35be588bec75024fca2a91",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.1.13",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.13/macrozilla-0.1.13-linux-arm64-v8.tgz",
+      "checksum": "22ba244e0c97e7000f75eb1320f40f74d0c40bb95f949646e7e29c6bddf8dbac",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.1.13",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.13/macrozilla-0.1.13-linux-x64-v8.tgz",
+      "checksum": "4f13c0da17e352325c2ac7eb48ab9d3024f5dc445f5fa1b0eb1c8650ea02f38e",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.1.13",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.13/macrozilla-0.1.13-darwin-x64-v8.tgz",
+      "checksum": "f6ac8118b08d85a43d1a7f95cfeaf0da40ab83cd69b7ffc47a3ef7cc8c2f9c26",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.13",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.13/macrozilla-0.1.13-linux-arm-v10.tgz",
+      "checksum": "a0e2b473c77f7a93dcc5725b413dea131396eb09ec0f027189c7345411f0899a",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.13",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.13/macrozilla-0.1.13-linux-arm64-v10.tgz",
+      "checksum": "a7be39d6dc077d32780ce6211cd63048be482bc0a6c9a5ae96b807f43d85414e",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.13",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.13/macrozilla-0.1.13-linux-x64-v10.tgz",
+      "checksum": "18730204bf420cee21561652165c3a30b66442dfce9e949fb4cdacc9ea3c0991",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.13",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.13/macrozilla-0.1.13-darwin-x64-v10.tgz",
+      "checksum": "e0fc915b005ee2295426e048ef3de414d3c961e5ee208b2ef43a62cece855bc3",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.13",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.13/macrozilla-0.1.13-linux-arm-v12.tgz",
+      "checksum": "d49439e00abd2e6c004410d6f9ee9a9573b78a4a02a7a204ddc862626f317e87",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.13",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.13/macrozilla-0.1.13-linux-arm64-v12.tgz",
+      "checksum": "e372493c9a458e4181c5a4e59a5d511ce7af3e1fb173262e29b5e3500d136d0c",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.13",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.13/macrozilla-0.1.13-linux-x64-v12.tgz",
+      "checksum": "09d6be3625d46344932e2da887ac87ebb9bdf0d731a76cb411787de6b6626704",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.13",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.13/macrozilla-0.1.13-darwin-x64-v12.tgz",
+      "checksum": "e28da9081d522b3220de88c377c4c75c20078228900b7d69b7ea48f40d026c44",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.13",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.13/macrozilla-0.1.13-linux-arm-v14.tgz",
+      "checksum": "5858e5f3b42049d9b7aecfc4528cf3a525cee4c76a87c7f5233d5dddaffc3c2d",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.13",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.13/macrozilla-0.1.13-linux-arm64-v14.tgz",
+      "checksum": "6433b6037e4860fd7776b6b5b5ac2cbf262e93a345c7fea066f9e20d7e88df37",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.13",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.13/macrozilla-0.1.13-linux-x64-v14.tgz",
+      "checksum": "432c62548c19ec1daa9736892ce586afc236c76a35243406f7373e47aac030cb",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.13",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.13/macrozilla-0.1.13-darwin-x64-v14.tgz",
+      "checksum": "cd57da0090d7b2fba98869b8f55601b0e176748d9b9f35fc3c7f11ff5d5c25e4",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

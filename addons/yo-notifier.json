@@ -1,0 +1,31 @@
+{
+  "id": "yo-notifier",
+  "name": "Yo",
+  "description": "Send a Yo to your phone (gateway >= 0.9.0 only)",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/yo-notifier#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/yo-notifier/master/LICENSE",
+  "primary_type": "notifier",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.1.4",
+      "url": "https://github.com/tim-hellhake/yo-notifier/releases/download/0.1.4/yo-notifier-0.1.4.tgz",
+      "checksum": "83fb9753956b6e786137d294d801b4589971a53b5c6f04618bd3855ddeea5862",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

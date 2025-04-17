@@ -1,0 +1,27 @@
+{
+  "id": "wake-on-lan-adapter",
+  "name": "Wake-on-LAN",
+  "description": "Wake-on-LAN support",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/wake-on-lan-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/wake-on-lan-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.2.2",
+      "url": "https://github.com/WebThingsIO/wake-on-lan-adapter/releases/download/v0.2.2/wake-on-lan-adapter-0.2.2.tgz",
+      "checksum": "5c0f6ba901c5c34d3803676f0e07244547ff7e38a9d878bb9d70b5f13ba31542",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

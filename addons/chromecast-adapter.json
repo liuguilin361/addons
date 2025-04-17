@@ -1,0 +1,27 @@
+{
+  "id": "chromecast-adapter",
+  "name": "Chromecast",
+  "description": "Chromecast support",
+  "author": "Michael Stegeman",
+  "homepage_url": "https://github.com/mrstegeman/chromecast-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/mrstegeman/chromecast-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.4.5",
+      "url": "https://github.com/mrstegeman/chromecast-adapter/releases/download/v0.4.5/chromecast-adapter-0.4.5.tgz",
+      "checksum": "9649f4ab46237cc0729dbf476774dc6a67c95a12c16c09937d13a55a5ed914ce",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

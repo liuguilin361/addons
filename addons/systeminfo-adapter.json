@@ -1,0 +1,27 @@
+{
+  "id": "systeminfo-adapter",
+  "name": "Systeminfo",
+  "description": "Get stats of the system",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/systeminfo-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/systeminfo-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "1.12.2",
+      "url": "https://github.com/tim-hellhake/systeminfo-adapter/releases/download/1.12.2/systeminfo-adapter-1.12.2.tgz",
+      "checksum": "4e97f7fd3e67c122bd5cebeddc1a3d65fa9d652ae8e11f9b52561140f45f86f9",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "id": "max-adapter",
+  "name": "MAX!",
+  "description": "Connect your MAX! devices",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/max-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/max-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.9",
+      "url": "https://github.com/tim-hellhake/max-adapter/releases/download/0.1.9/max-adapter-0.1.9-linux-arm-v10.tgz",
+      "checksum": "4412b04eabcd5e5db87ced2e0974781765b264bb301a43650bec5a99f4b97d8d",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.9",
+      "url": "https://github.com/tim-hellhake/max-adapter/releases/download/0.1.9/max-adapter-0.1.9-linux-arm64-v10.tgz",
+      "checksum": "4df136483c8157d214c1e5e26376f450e266e4ea17fe1ee44fd8213b3bc6c602",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.9",
+      "url": "https://github.com/tim-hellhake/max-adapter/releases/download/0.1.9/max-adapter-0.1.9-linux-x64-v10.tgz",
+      "checksum": "6fc50416a4b53a75467317b75b4bd27a2fc5bff85e70c3fd5c3769c5de3690ff",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.9",
+      "url": "https://github.com/tim-hellhake/max-adapter/releases/download/0.1.9/max-adapter-0.1.9-darwin-x64-v10.tgz",
+      "checksum": "e38fd9f843253fe5ece983b4d748796b2d512a7573a49130d93b9190bd96f311",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.9",
+      "url": "https://github.com/tim-hellhake/max-adapter/releases/download/0.1.9/max-adapter-0.1.9-linux-arm-v12.tgz",
+      "checksum": "115d843dc387302f7b5be0b9a7ea1a11463dfbac35ead5f0f76d23ce6bf1763b",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.9",
+      "url": "https://github.com/tim-hellhake/max-adapter/releases/download/0.1.9/max-adapter-0.1.9-linux-arm64-v12.tgz",
+      "checksum": "ee6499fe7eece9165f1ad80e527a4dd962ac23d4463434630d99581a915bfe45",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.9",
+      "url": "https://github.com/tim-hellhake/max-adapter/releases/download/0.1.9/max-adapter-0.1.9-linux-x64-v12.tgz",
+      "checksum": "983663c9a28457d884e2b7ec0caa870c66e94c383f81db9c0e80a85be0af5ed7",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.9",
+      "url": "https://github.com/tim-hellhake/max-adapter/releases/download/0.1.9/max-adapter-0.1.9-darwin-x64-v12.tgz",
+      "checksum": "73942dbf77336f5df11f82033c3c533dac35a98f216a1a2273b4ce2ad84c754a",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.9",
+      "url": "https://github.com/tim-hellhake/max-adapter/releases/download/0.1.9/max-adapter-0.1.9-linux-arm-v14.tgz",
+      "checksum": "7c59cf4110e87d12d85f905b6e91e9321f60fffdfa7a10c4494cd708013de922",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.9",
+      "url": "https://github.com/tim-hellhake/max-adapter/releases/download/0.1.9/max-adapter-0.1.9-linux-arm64-v14.tgz",
+      "checksum": "2441e364930e4b59744d952fc04a5f2f8d1a4405c2e281ab8527596b471c3ba6",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.9",
+      "url": "https://github.com/tim-hellhake/max-adapter/releases/download/0.1.9/max-adapter-0.1.9-linux-x64-v14.tgz",
+      "checksum": "68043706e83f8439036d8bb51c2e69c82ecb6c63552a9950f4ee4695d3f9d070",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.9",
+      "url": "https://github.com/tim-hellhake/max-adapter/releases/download/0.1.9/max-adapter-0.1.9-darwin-x64-v14.tgz",
+      "checksum": "c811b66c5dd619d458992c4bb5e9c5da15cab8ab27048ff884b87ae8ecefaa0e",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

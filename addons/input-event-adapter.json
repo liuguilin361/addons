@@ -1,0 +1,27 @@
+{
+  "id": "input-event-adapter",
+  "name": "Input Event",
+  "description": "React to input events, e.g. from a USB keyboard or remote",
+  "author": "bewee",
+  "homepage_url": "https://github.com/bewee/input-event-adapter",
+  "license_url": "https://raw.githubusercontent.com/bewee/input-event-adapter/master/LICENSE.md",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.2.5",
+      "url": "https://github.com/bewee/input-event-adapter/releases/download/v0.2.5/input-event-adapter-0.2.5.tgz",
+      "checksum": "5e342db1543d590c644bcd63872afbefba9b05121834eda45be68d9b352ba969",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

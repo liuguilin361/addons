@@ -1,0 +1,28 @@
+{
+  "id": "example-extension",
+  "name": "Example Extension",
+  "description": "Example extension add-on for developers",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/example-extension",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/example-extension/master/LICENSE",
+  "primary_type": "extension",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.2.2",
+      "url": "https://github.com/WebThingsIO/example-extension/releases/download/v0.2.2/example-extension-0.2.2.tgz",
+      "checksum": "87f587a5721a6d75f8eaef380d0ed69fe5d904a16259e882acdfc52804070d08",
+      "test_only": true,
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

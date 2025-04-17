@@ -1,0 +1,203 @@
+{
+  "id": "microblocks-adapter",
+  "name": "MicroBlocks",
+  "description": "MicroBlocks board support",
+  "author": "MicroBlocks",
+  "homepage_url": "https://github.com/bromagosa/microblocks-adapter",
+  "license_url": "https://raw.githubusercontent.com/bromagosa/microblocks-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.5.5",
+      "url": "https://github.com/bromagosa/microblocks-adapter/releases/download/v0.5.5/microblocks-adapter-0.5.5-linux-arm-v10.tgz",
+      "checksum": "b3fcda0d10be102810b7be3c558d05d7b9124494181e77f33a09533ffac89be8",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.5.5",
+      "url": "https://github.com/bromagosa/microblocks-adapter/releases/download/v0.5.5/microblocks-adapter-0.5.5-linux-arm64-v10.tgz",
+      "checksum": "c3499dee8f073abae11689d2cc4a0f2cacd3203b3bb13b05c2056ac66c41f213",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.5.5",
+      "url": "https://github.com/bromagosa/microblocks-adapter/releases/download/v0.5.5/microblocks-adapter-0.5.5-linux-x64-v10.tgz",
+      "checksum": "60209ea4e1077d516663c2fa38bf35c657120cbfb50d7a98651347a0903221d2",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.5.5",
+      "url": "https://github.com/bromagosa/microblocks-adapter/releases/download/v0.5.5/microblocks-adapter-0.5.5-darwin-x64-v10.tgz",
+      "checksum": "7097f1e5d91c0ba1e51d65e331bd86ae34d88700d40cd21200df213d9a371a4a",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.5.5",
+      "url": "https://github.com/bromagosa/microblocks-adapter/releases/download/v0.5.5/microblocks-adapter-0.5.5-linux-arm-v12.tgz",
+      "checksum": "036f1e69b83450bfe5dcfd0b2f03d83caeff97033657db312be92cdc67f14dc5",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.5.5",
+      "url": "https://github.com/bromagosa/microblocks-adapter/releases/download/v0.5.5/microblocks-adapter-0.5.5-linux-arm64-v12.tgz",
+      "checksum": "b72da7803f9d7f92711a36e6eaa1de99dffce3c8ce7031d85bcfb5a50e17c428",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.5.5",
+      "url": "https://github.com/bromagosa/microblocks-adapter/releases/download/v0.5.5/microblocks-adapter-0.5.5-linux-x64-v12.tgz",
+      "checksum": "1a9984141a352232b1e15e0ce41e695a9389fd6fd7e7da8e1dba2658b12ff201",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.5.5",
+      "url": "https://github.com/bromagosa/microblocks-adapter/releases/download/v0.5.5/microblocks-adapter-0.5.5-darwin-x64-v12.tgz",
+      "checksum": "cd23a5724ad9154a10e6c601b64e13de5535b8a47b4c5273c502c5c2b23407c2",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.5.5",
+      "url": "https://github.com/bromagosa/microblocks-adapter/releases/download/v0.5.5/microblocks-adapter-0.5.5-linux-arm-v14.tgz",
+      "checksum": "b979ad113f96ca5cca38799fc302b84f28bb8c7a9fca1ce26a74c4523385e740",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.5.5",
+      "url": "https://github.com/bromagosa/microblocks-adapter/releases/download/v0.5.5/microblocks-adapter-0.5.5-linux-arm64-v14.tgz",
+      "checksum": "80158169a78a9b4a18ee280f349244d46cef3c1f87fbc077fc2f4771a486c954",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.5.5",
+      "url": "https://github.com/bromagosa/microblocks-adapter/releases/download/v0.5.5/microblocks-adapter-0.5.5-linux-x64-v14.tgz",
+      "checksum": "4b80c4264afb11e14b0a4bf1295b65debf734b340d96cb462fec9268d3d88044",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.5.5",
+      "url": "https://github.com/bromagosa/microblocks-adapter/releases/download/v0.5.5/microblocks-adapter-0.5.5-darwin-x64-v14.tgz",
+      "checksum": "cacf9eea9fd62d4a691cf7a31a3696d1457d1634278a901acfe0cb24f3c6d0a0",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "telegram-sender-adapter",
+  "name": "Telegram",
+  "description": "Simple telegram sending actions. Needs to be configured with chatid and token.",
+  "author": "Michael Stegeman",
+  "homepage_url": "https://github.com/mrstegeman/telegram-sender-adapter",
+  "license_url": "https://raw.githubusercontent.com/mrstegeman/telegram-sender-adapter/master/LICENSE",
+  "primary_type": "notifier",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.0.8",
+      "url": "https://github.com/mrstegeman/telegram-sender-adapter/releases/download/v0.0.8/telegram-sender-adapter-0.0.8.tgz",
+      "checksum": "21381bdcf5ab1a49632048dd66172946a313880d4cec303dbf4aeabe3ebeb2b1",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

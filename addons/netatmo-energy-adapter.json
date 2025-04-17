@@ -1,0 +1,27 @@
+{
+  "id": "netatmo-energy-adapter",
+  "name": "Netatmo Energy",
+  "description": "Adapter for the WebThings Gateway to show and control Netatmo Thermostats",
+  "author": "Michael Kohler",
+  "homepage_url": "https://github.com/MichaelKohler/netatmo-energy-adapter",
+  "license_url": "https://raw.githubusercontent.com/MichaelKohler/netatmo-energy-adapter/main/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "3.0.3",
+      "url": "https://github.com/MichaelKohler/netatmo-energy-adapter/releases/download/v3.0.3/netatmo-energy-adapter-3.0.3.tgz",
+      "checksum": "a5bdf3e8bc0afe568118eadf75cce5bb70fe463d0ef11abc9917019ffe564fb1",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    }
+  ]
+}

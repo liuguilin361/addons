@@ -1,0 +1,31 @@
+{
+  "id": "scheduler-adapter",
+  "name": "Scheduler",
+  "description": "Allows you to use a time schedule in your rules",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/scheduler-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/scheduler-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.1.1",
+      "url": "https://github.com/tim-hellhake/scheduler-adapter/releases/download/0.1.1/scheduler-adapter-0.1.1.tgz",
+      "checksum": "b470d30e63340fc18520b7ab476a75d005d90376014c8910450fbf99f15c0ab1",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

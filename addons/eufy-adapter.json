@@ -1,0 +1,331 @@
+{
+  "id": "eufy-adapter",
+  "name": "Eufy",
+  "description": "Eufy device support",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/eufy-adapter",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/eufy-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "0.3.4",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.4/eufy-adapter-0.3.4-linux-arm-v3.5.tgz",
+      "checksum": "17e679b4f2357fc26dbbbe06cf0b1f7d1e967b150aca647fc4eef9b89f1957ac",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "0.3.4",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.4/eufy-adapter-0.3.4-linux-arm64-v3.5.tgz",
+      "checksum": "aa38b1e77dd4e75298aade684b6c9bf73638e566eec361dca587d0fc09a7b5e9",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "0.3.4",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.4/eufy-adapter-0.3.4-linux-x64-v3.5.tgz",
+      "checksum": "76fcf67bf24ebaaa8d6fdce3c292ebc6a2db7f4e801ebeed50a680a5b24b6a7d",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "0.3.4",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.4/eufy-adapter-0.3.4-darwin-x64-v3.5.tgz",
+      "checksum": "497b920aae65faef402a538dd0c58b6ffacf4420eb924764044656c35cc01b2d",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "0.3.4",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.4/eufy-adapter-0.3.4-linux-arm-v3.6.tgz",
+      "checksum": "785e99e3f923327a63941852cefb1f78730bbe18d2340a678ecc549212c8fcb2",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "0.3.4",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.4/eufy-adapter-0.3.4-linux-arm64-v3.6.tgz",
+      "checksum": "80e6ad50ef613d225d56e246c33703a814d38ea651d4ee3d0c21baafb99cd689",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "0.3.4",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.4/eufy-adapter-0.3.4-linux-x64-v3.6.tgz",
+      "checksum": "ac23c3d766f2fd314a98c5258c395bdda7ec738c5d01896294c273fc15c66dbf",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "0.3.4",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.4/eufy-adapter-0.3.4-darwin-x64-v3.6.tgz",
+      "checksum": "4dbbbb949144ab7f4a9a0a8e4f61faebd561d4300feeaaa6d19b5274fd522efe",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.3.4",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.4/eufy-adapter-0.3.4-linux-arm-v3.7.tgz",
+      "checksum": "c58842e1bdd189982f8794ef49827191493c8935a8a065869064eb34bb080c25",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.3.4",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.4/eufy-adapter-0.3.4-linux-arm64-v3.7.tgz",
+      "checksum": "99d5a00b6c5566d39f360f74520bd1c3dc1ca596042261c2a32e936acfd812c2",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.3.4",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.4/eufy-adapter-0.3.4-linux-x64-v3.7.tgz",
+      "checksum": "2d40581f80227f9fccd1309d5dd9914d6c2218932c2eb11d12d0fe1a86cc535c",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.3.4",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.4/eufy-adapter-0.3.4-darwin-x64-v3.7.tgz",
+      "checksum": "83f62d6f68bf024620b694b1cee0728cf8751fafec218f1ae99b532f204fe51b",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.3.4",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.4/eufy-adapter-0.3.4-linux-arm-v3.8.tgz",
+      "checksum": "0aba805fa690cc83bbc1190c61a668c92268bd44fa065a5806a2da448760f7bd",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.3.4",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.4/eufy-adapter-0.3.4-linux-arm64-v3.8.tgz",
+      "checksum": "2d07d4f69203f6c16ded713b50d44a0b091dd957413a0b5af6c50237a29fd9ab",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.3.4",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.4/eufy-adapter-0.3.4-linux-x64-v3.8.tgz",
+      "checksum": "b6b735afb919da3ea56be2350d6c4abb75fbd42e92ca5d619628fb4881fae608",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.3.4",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.4/eufy-adapter-0.3.4-darwin-x64-v3.8.tgz",
+      "checksum": "679b955e13dd72fd5b1c38eb28080ed28505ae5694eddd04db47e7717bc20864",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "0.3.4",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.4/eufy-adapter-0.3.4-linux-arm-v3.9.tgz",
+      "checksum": "677642c53974dc43b722ae37a0f979cee84518c3c6ae2ab3554743e1487edcad",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "0.3.4",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.4/eufy-adapter-0.3.4-linux-arm64-v3.9.tgz",
+      "checksum": "c285da1f28b9ec27e91bfe09556e98f8d8eba981598587c1df5c5f582927dab1",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "0.3.4",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.4/eufy-adapter-0.3.4-linux-x64-v3.9.tgz",
+      "checksum": "e9236397af98378a9ab50854833aca42f87317bd5a4b8bbcbefe26b3623a4d58",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "0.3.4",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.4/eufy-adapter-0.3.4-darwin-x64-v3.9.tgz",
+      "checksum": "3b13fbfb4a6820a58437d960e757408ce205b9ad2654d22ff7c4347309e0901c",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

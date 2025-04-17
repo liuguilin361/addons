@@ -1,0 +1,31 @@
+{
+  "id": "yamaha-adapter",
+  "name": "Yamaha",
+  "description": "Connect your yamaha audio devices",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/yamaha-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/yamaha-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.2.0",
+      "url": "https://github.com/tim-hellhake/yamaha-adapter/releases/download/0.2.0/yamaha-adapter-0.2.0.tgz",
+      "checksum": "6bf7adc14cfa1bda1a1f6625f2ea23e1ee7c376a127fbcba94391390f828f6d2",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

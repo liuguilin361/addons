@@ -1,0 +1,27 @@
+{
+  "id": "pulse-adapter",
+  "name": "Pulse",
+  "description": "Generate a pulse. This is basically an On/Off switch which turns itself off after some configured amount of time.",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/pulse-adapter",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/pulse-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.4.2",
+      "url": "https://github.com/WebThingsIO/pulse-adapter/releases/download/v0.4.2/pulse-adapter-0.4.2.tgz",
+      "checksum": "1cce69064f8a09bb6042fcd32fb43fb59162296d55ec18eef079bb6bb3999da5",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

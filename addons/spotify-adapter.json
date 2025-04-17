@@ -1,0 +1,27 @@
+{
+  "id": "spotify-adapter",
+  "name": "Spotify",
+  "description": "Control your Spotify player",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/spotify-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/spotify-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.6.1",
+      "url": "https://github.com/tim-hellhake/spotify-adapter/releases/download/0.6.1/spotify-adapter-0.6.1.tgz",
+      "checksum": "2d8e1f77a4e85a4e98afa29fc9b97f119d6cd78950e47141b94c9ecf68721745",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    }
+  ]
+}

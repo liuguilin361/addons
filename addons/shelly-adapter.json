@@ -1,0 +1,27 @@
+{
+  "id": "shelly-adapter",
+  "name": "Shelly",
+  "description": "Connect your shelly devices",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/shelly-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/shelly-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "1.9.0",
+      "url": "https://github.com/tim-hellhake/shelly-adapter/releases/download/1.9.0/shelly-adapter-1.9.0.tgz",
+      "checksum": "a293b5a2e3b6970e6b27b9f5eb823d7d6e778f28dde8ab74a4262f9aae0ee4bf",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "id": "date-time-adapter",
+  "name": "DateTime Adapter",
+  "description": "A Date & Time adapter to create more advanced rules using sunrise, sunset, weekends, etc.",
+  "author": "tomasy-wfahle",
+  "homepage_url": "https://github.com/WTIOAddons/date-time-adapter",
+  "license_url": "https://raw.githubusercontent.com/WTIOAddons/date-time-adapter/main/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "1.2.3",
+      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.2.3/date-time-adapter-1.2.3-linux-arm64-v3.7.tgz",
+      "checksum": "a3235297569de5af9aabc82029ac2e5e135346a6701f1a83afdf6412be7ea7b5",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "1.2.3",
+      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.2.3/date-time-adapter-1.2.3-linux-arm64-v3.8.tgz",
+      "checksum": "90f5dd06029890891c79be7d0d0b84d51680ac407cc762571656d677c7d802f0",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "1.2.3",
+      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.2.3/date-time-adapter-1.2.3-linux-arm64-v3.9.tgz",
+      "checksum": "80339bf9cbdca8408adc8cfa0224beebabf561328b73176dabc5590f5cf0b3f1",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "1.2.3",
+      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.2.3/date-time-adapter-1.2.3-linux-arm-v3.7.tgz",
+      "checksum": "f1b7438512b145c1507f3b018e3a320ebbe3dc20767323abe39aed0114de1355",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "1.2.3",
+      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.2.3/date-time-adapter-1.2.3-linux-arm-v3.8.tgz",
+      "checksum": "b2e7dfdf82fbc2816a0c8d48e09486386bba747d51efb6900d6d15ac1d111e1e",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "1.2.3",
+      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.2.3/date-time-adapter-1.2.3-linux-arm-v3.9.tgz",
+      "checksum": "e8285cccd77448c61836cfeed7d138d0a02ae633ea0b1adf9af00587f7a93aa6",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "1.2.3",
+      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.2.3/date-time-adapter-1.2.3-linux-x64-v3.7.tgz",
+      "checksum": "0cc3b12e3fa5b6286ec2d22e98647a1f745500b6bbca3f437ede9854aa12bee4",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "1.2.3",
+      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.2.3/date-time-adapter-1.2.3-linux-x64-v3.8.tgz",
+      "checksum": "53bb2977109a2efd7067d66c8330f4f326b3411a8ceb034716b267716f99e9d2",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "1.2.3",
+      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.2.3/date-time-adapter-1.2.3-linux-x64-v3.9.tgz",
+      "checksum": "8f9b13e62057ae5ef875a5e47c86c9efa295c036c878ca72071d98a47c283c3c",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "1.2.3",
+      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.2.3/date-time-adapter-1.2.3-darwin-x64-v3.7.tgz",
+      "checksum": "cb66b2c84d741e8dfc456fff16df743b277ea2cc764ae697b6a0c3e3ea1332da",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "1.2.3",
+      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.2.3/date-time-adapter-1.2.3-darwin-x64-v3.8.tgz",
+      "checksum": "af9b089470cb4a18058497c56e8acf16173e217fc42938e6336cb112ba9e221a",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "1.2.3",
+      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.2.3/date-time-adapter-1.2.3-darwin-x64-v3.9.tgz",
+      "checksum": "c1480dafe2b621f47ca26dddd08bbc5a125f652baccfa2e5ad37a7c82ee268e6",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

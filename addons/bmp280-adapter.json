@@ -1,0 +1,155 @@
+{
+  "id": "bmp280-adapter",
+  "name": "BME280/BMP280",
+  "description": "Get temperature and pressure data from BMP280-like sensors",
+  "author": "Matthieu Corageoud",
+  "homepage_url": "https://github.com/matco/bmp280-adapter",
+  "license_url": "https://raw.githubusercontent.com/matco/bmp280-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.3",
+      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.3/bmp280-adapter-0.1.3-linux-arm-v10.tgz",
+      "checksum": "4de9fa95bdbdfc00905cb9af4a6e0afe01552b9c2d0674b6f5c461a0671151ed",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.3",
+      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.3/bmp280-adapter-0.1.3-linux-arm64-v10.tgz",
+      "checksum": "2e30c1b09cacc803bc2752c3465b41b3bfc23f87d50abd1d8da80898086471e4",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.3",
+      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.3/bmp280-adapter-0.1.3-linux-x64-v10.tgz",
+      "checksum": "ac194909503de88f51c2aa4018bff03d1aaeb28a5762661744e8c69d9438a4c4",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.3",
+      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.3/bmp280-adapter-0.1.3-linux-arm-v12.tgz",
+      "checksum": "4b0941d04fa612b6bb30a40fbb89306edcc004f7ba8d04bfea380aa975587714",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.3",
+      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.3/bmp280-adapter-0.1.3-linux-arm64-v12.tgz",
+      "checksum": "db506dea60ded904035c5c4c8b3a4eb64449cf865d94fc6804df255c0b285289",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.3",
+      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.3/bmp280-adapter-0.1.3-linux-x64-v12.tgz",
+      "checksum": "21353f14c765bb78c204e4439594d3a447bed910a42ad166e96de4288a4173b8",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.3",
+      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.3/bmp280-adapter-0.1.3-linux-arm-v14.tgz",
+      "checksum": "6304bec91c86437b6b478e0dca54158e80357aa7aae1b021cd6a07f511fe9cd1",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.3",
+      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.3/bmp280-adapter-0.1.3-linux-arm64-v14.tgz",
+      "checksum": "991b20b0b7a4b2542ad50f4cfba2437f78d0c6e95c4a2ecf367583c6494d2c79",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.3",
+      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.3/bmp280-adapter-0.1.3-linux-x64-v14.tgz",
+      "checksum": "9fdd226b61c858a0479db2612eb87c41249aed97f6a371a23eeb17538ebda9f7",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

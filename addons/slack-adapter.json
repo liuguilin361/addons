@@ -1,0 +1,27 @@
+{
+  "id": "slack-adapter",
+  "name": "Slack",
+  "description": "Send slack messages to your workspace",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/slack-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/slack-adapter/master/LICENSE",
+  "primary_type": "notifier",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.2.3",
+      "url": "https://github.com/tim-hellhake/slack-adapter/releases/download/0.2.3/slack-adapter-0.2.3.tgz",
+      "checksum": "c53315c5aa13c910debc29ea2735405b04c0d4139eefc816d98020cc940e822d",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

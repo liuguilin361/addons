@@ -1,0 +1,27 @@
+{
+  "id": "dingz-adapter",
+  "name": "Dingz",
+  "description": "Dingz support",
+  "author": "Martin Giger",
+  "homepage_url": "https://github.com/freaktechnik/dingz-adapter",
+  "license_url": "https://raw.githubusercontent.com/freaktechnik/dingz-adapter/main/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://github.com/freaktechnik/dingz-adapter/releases/download/v0.3.2/dingz-adapter-0.3.2.tgz",
+      "checksum": "02c3a54c1e8907bfab0df1eccb76431e5499d4640cd0c662edcbfffd7777c831",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

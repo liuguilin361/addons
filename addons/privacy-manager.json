@@ -1,0 +1,31 @@
+{
+  "id": "privacy-manager",
+  "name": "Privacy Manager",
+  "description": "Privacy Manager allows you to change and remove data in your logs.",
+  "author": "CreateCandle",
+  "homepage_url": "https://github.com/createcandle/privacy-manager",
+  "license_url": "https://raw.githubusercontent.com/createcandle/privacy-manager/master/LICENSE",
+  "primary_type": "extension",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5",
+          "3.6",
+          "3.7",
+          "3.8",
+          "3.9"
+        ]
+      },
+      "version": "0.0.3",
+      "url": "https://github.com/createcandle/privacy-manager/releases/download/0.0.3/privacy-manager-0.0.3.tgz",
+      "checksum": "07673d8fa21e6fcf0e4663aec4a8689d7ecc16258bf90b99ad6d70bcbc14a824",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

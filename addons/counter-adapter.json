@@ -1,0 +1,27 @@
+{
+  "id": "counter-adapter",
+  "name": "Counter",
+  "description": "Lets you count things by calling the increment action",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/counter-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/counter-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.3.5",
+      "url": "https://github.com/tim-hellhake/counter-adapter/releases/download/0.3.5/counter-adapter-0.3.5.tgz",
+      "checksum": "e08328a5de41e25658a89d5a761fe73181fbee6f850c6c09576c299cbe2ec6e9",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "scene-control-adapter",
+  "name": "Scene Control",
+  "description": "Emulate scenes through rules.",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/scene-control-adapter",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/scene-control-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.1.2",
+      "url": "https://github.com/WebThingsIO/scene-control-adapter/releases/download/v0.1.2/scene-control-adapter-0.1.2.tgz",
+      "checksum": "49b0c1abcd678f99999a5be41c0f56ab7a46b786af696fa87c5e174fe61ad3bd",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

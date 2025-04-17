@@ -1,0 +1,331 @@
+{
+  "id": "p1-adapter",
+  "name": "P1",
+  "description": "Connect to home energy meters that use the P1 standard",
+  "author": "CandleSmartHome.com",
+  "homepage_url": "https://github.com/createcandle/p1-adapter",
+  "license_url": "https://raw.githubusercontent.com/createcandle/p1-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-linux-arm-v3.5.tgz",
+      "checksum": "341cb65ba52b55e353f68f4eacf111ce8175a7f300630d3f5ab01b3ea5231969",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-linux-arm64-v3.5.tgz",
+      "checksum": "37d193982918fac301b3299eb6c4a868fd054dadd24c108c7d998ed91ec51b4f",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-linux-x64-v3.5.tgz",
+      "checksum": "cae4da62a84c7281df4a1a06808ec085002d4835099e750eae6a8e01d67e1720",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-darwin-x64-v3.5.tgz",
+      "checksum": "7a7342bc3803e3a2199ce8585c35fd61de2193cf1549bdeea59c377b27088355",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-linux-arm-v3.6.tgz",
+      "checksum": "a24dc0eacecf0251eed7e7f4d83aa083849d849e42f62fd08cc2502115a6431d",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-linux-arm64-v3.6.tgz",
+      "checksum": "32d1b845b690edfc6b8eb396d420e3dc70d64aa107a56ab4b897858c58236644",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-linux-x64-v3.6.tgz",
+      "checksum": "bfd8d0c7aaa9cf9aebab2d65e00bee563eeb0f4d4f6e0f2b70298b066ec2573b",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-darwin-x64-v3.6.tgz",
+      "checksum": "9c1ba9bff3f379712db482acf96580599b52d2d2d1883aeff120213d50c2f411",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-linux-arm-v3.7.tgz",
+      "checksum": "64bb04697213f4043b76a5ddb102f18af7dbd73104086c3c32588543e112e0c0",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-linux-arm64-v3.7.tgz",
+      "checksum": "bef9eb6be6d193ffea363975e5469d7fda5d9a04597846e74529b1c554e5889b",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-linux-x64-v3.7.tgz",
+      "checksum": "387ffaff79234ca07eba76450923bdaf2f2a19d6d22781906e604104acd1b08a",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-darwin-x64-v3.7.tgz",
+      "checksum": "e5ce8d7b49361b4592f584fb7754ef5b745713554ab9f46a76bae7fc259fc51d",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-linux-arm-v3.8.tgz",
+      "checksum": "bc46425e44c1ec9a1fa87fd3341de795ee532678f7df8bd1a9d4c64175c85822",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-linux-arm64-v3.8.tgz",
+      "checksum": "46cafbb7b6e729b8f228de7cd5e9c625bafd0a95019f57860c8c6f3397cfaebc",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-linux-x64-v3.8.tgz",
+      "checksum": "b7b4bb99de9755095ffb661aa33e3e515fadd5a2ed2753927352a8c4ed7dbe47",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-darwin-x64-v3.8.tgz",
+      "checksum": "9518817beb4c6384a03942ffdb3f6547443d4702750861361a98772f1f834a37",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-linux-arm-v3.9.tgz",
+      "checksum": "0646b219818b5e10853b0e6a3ccc24aa1fe4a15467270893ae994f22629551dd",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-linux-arm64-v3.9.tgz",
+      "checksum": "d64b51bb0311f64ddf6007cc5d10283836a9849dfbd085e247c93715659eab2a",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-linux-x64-v3.9.tgz",
+      "checksum": "f4ae1708c949cd407671555109f40f3ad9be6b2a181aa5834202a400205e11f8",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-darwin-x64-v3.9.tgz",
+      "checksum": "596c67c26ec4ec26178ed87b5bf96c8d9b7dc2de22bc5811cc9029026ad9356d",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

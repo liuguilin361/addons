@@ -1,0 +1,31 @@
+{
+  "id": "lifx-adapter",
+  "name": "LIFX",
+  "description": "LIFX smart bulb support",
+  "author": "Michael Stegeman",
+  "homepage_url": "https://github.com/mrstegeman/lifx-adapter",
+  "license_url": "https://raw.githubusercontent.com/mrstegeman/lifx-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5",
+          "3.6",
+          "3.7",
+          "3.8",
+          "3.9"
+        ]
+      },
+      "version": "0.5.0",
+      "url": "https://github.com/mrstegeman/lifx-adapter/releases/download/v0.5.0/lifx-adapter-0.5.0.tgz",
+      "checksum": "5d1199ffa9e62831323e79e94d8d3572128042a7678088139e5d5912efa62900",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

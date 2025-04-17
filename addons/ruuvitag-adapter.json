@@ -1,0 +1,203 @@
+{
+  "id": "ruuvitag-adapter",
+  "name": "RuuviTag",
+  "description": "Connect your RuuviTags (bluetooth environmental sensor)",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/ruuvitag-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/ruuvitag-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.8.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.8.0/ruuvitag-adapter-0.8.0-linux-arm-v10.tgz",
+      "checksum": "08a49e382b6b038ca7d2429d4efa23de67ba386642e8273a9eaf68d1585666ba",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.8.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.8.0/ruuvitag-adapter-0.8.0-linux-arm64-v10.tgz",
+      "checksum": "f5df80859305fdc5e8fd863d21016a6ec049d844c481928d7f37166ad58525df",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.8.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.8.0/ruuvitag-adapter-0.8.0-linux-x64-v10.tgz",
+      "checksum": "f00a5f5694dd1004ba9d07a811dc04083c486a90c0fbef3c36512750d8cac693",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.8.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.8.0/ruuvitag-adapter-0.8.0-darwin-x64-v10.tgz",
+      "checksum": "1c0b1fd50241072638f2b3a6e5db7159ea9b7ccda22dedcc54fab39359d5fabf",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.8.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.8.0/ruuvitag-adapter-0.8.0-linux-arm-v12.tgz",
+      "checksum": "91737a6ee87b8628b981f518fbd7d601f4d816d563e3b58ef6a5fc10867087e7",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.8.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.8.0/ruuvitag-adapter-0.8.0-linux-arm64-v12.tgz",
+      "checksum": "e5c37f1a0ea1fa742d0a649345c1ac1dc3444ec3093122c00b2854a3042391ed",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.8.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.8.0/ruuvitag-adapter-0.8.0-linux-x64-v12.tgz",
+      "checksum": "5b8e1e46131b60b33c615b0020d1b8964c52b2336b56a75bb41229ecb5387ffb",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.8.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.8.0/ruuvitag-adapter-0.8.0-darwin-x64-v12.tgz",
+      "checksum": "ef3b670652ced2e6d1b5bfc141c7cdb4b93e9eca227f787803c5ac0cac3e8ce5",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.8.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.8.0/ruuvitag-adapter-0.8.0-linux-arm-v14.tgz",
+      "checksum": "8e6caf45c92841a3118e8e2a74fec54cacb1da3f1486fccac3a4f78ceda6fe6c",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.8.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.8.0/ruuvitag-adapter-0.8.0-linux-arm64-v14.tgz",
+      "checksum": "4e0f8bad5ee2ad39d0706eea8adcf00e7f4809b19ccd0487e52c8e5e763097c1",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.8.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.8.0/ruuvitag-adapter-0.8.0-linux-x64-v14.tgz",
+      "checksum": "665f7f9c540f9f53b7d101670dda30bc2f55c032483f838b97febe7687d402f2",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.8.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.8.0/ruuvitag-adapter-0.8.0-darwin-x64-v14.tgz",
+      "checksum": "e3e7b4bf8d138cc0d94386e058693f6f659b253b7726561f8e4c9303ab160954",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    }
+  ]
+}

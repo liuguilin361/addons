@@ -1,0 +1,203 @@
+{
+  "id": "sensor-tag-adapter",
+  "name": "SensorTag",
+  "description": "Connect your SensorTags",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/sensor-tag-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/sensor-tag-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.5",
+      "url": "https://github.com/tim-hellhake/sensor-tag-adapter/releases/download/0.1.5/sensor-tag-adapter-0.1.5-linux-arm-v10.tgz",
+      "checksum": "6b72c7c8ee021c8876fa53839a9fe9d96d6b91dc0b0624492bd8446c4d8fb7a1",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.5",
+      "url": "https://github.com/tim-hellhake/sensor-tag-adapter/releases/download/0.1.5/sensor-tag-adapter-0.1.5-linux-arm64-v10.tgz",
+      "checksum": "b0816182a82f55e8989602210a0bd0df574f20fe7198933a820658f970bc689a",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.5",
+      "url": "https://github.com/tim-hellhake/sensor-tag-adapter/releases/download/0.1.5/sensor-tag-adapter-0.1.5-linux-x64-v10.tgz",
+      "checksum": "ca70bd54034c646c99bcb317b6aec3805bbfa67efec4f0a56af825c0c60290dc",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.5",
+      "url": "https://github.com/tim-hellhake/sensor-tag-adapter/releases/download/0.1.5/sensor-tag-adapter-0.1.5-darwin-x64-v10.tgz",
+      "checksum": "b4083bfbe9e71058a5df25b536a24eb2adfef8e35139a7f47c7c3d658045ef8b",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.5",
+      "url": "https://github.com/tim-hellhake/sensor-tag-adapter/releases/download/0.1.5/sensor-tag-adapter-0.1.5-linux-arm-v12.tgz",
+      "checksum": "2763eabcb834ba83ed5d476d9c0aead477f2a0b9fd9d8c43485372f8ccf93c1f",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.5",
+      "url": "https://github.com/tim-hellhake/sensor-tag-adapter/releases/download/0.1.5/sensor-tag-adapter-0.1.5-linux-arm64-v12.tgz",
+      "checksum": "2721812a8724c2eb0780aa3d5d244e9d49d1ca52242efd3807e83c31a6739248",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.5",
+      "url": "https://github.com/tim-hellhake/sensor-tag-adapter/releases/download/0.1.5/sensor-tag-adapter-0.1.5-linux-x64-v12.tgz",
+      "checksum": "bc14fff11cd749ac508b7f116a83b44a4e32484f4e8551bd1a77980c14a99690",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.5",
+      "url": "https://github.com/tim-hellhake/sensor-tag-adapter/releases/download/0.1.5/sensor-tag-adapter-0.1.5-darwin-x64-v12.tgz",
+      "checksum": "5bdc7c0538edd004d107e82043a5beeb39873c27f7b9d161b00cdc882680eb31",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.5",
+      "url": "https://github.com/tim-hellhake/sensor-tag-adapter/releases/download/0.1.5/sensor-tag-adapter-0.1.5-linux-arm-v14.tgz",
+      "checksum": "757ee0c542f21e7e0c39531029325e9814f0b0cc7d84624b6d795fc2554b40c9",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.5",
+      "url": "https://github.com/tim-hellhake/sensor-tag-adapter/releases/download/0.1.5/sensor-tag-adapter-0.1.5-linux-arm64-v14.tgz",
+      "checksum": "ac244af3f1747d3d5b5121ae6dfff19b97f031b836bca70f71e3bbaa9efa6963",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.5",
+      "url": "https://github.com/tim-hellhake/sensor-tag-adapter/releases/download/0.1.5/sensor-tag-adapter-0.1.5-linux-x64-v14.tgz",
+      "checksum": "8973f49ee530741d93aeacaa6ca0806195a75d6e12403b88d2a92204bafbd5f8",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.5",
+      "url": "https://github.com/tim-hellhake/sensor-tag-adapter/releases/download/0.1.5/sensor-tag-adapter-0.1.5-darwin-x64-v14.tgz",
+      "checksum": "05983b7f75edd9d6beab5abe39aaff6b63ea3c912af9caedc9babc22dcc4ebca",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

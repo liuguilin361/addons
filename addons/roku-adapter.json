@@ -1,0 +1,27 @@
+{
+  "id": "roku-adapter",
+  "name": "Roku",
+  "description": "Roku support",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/roku-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/roku-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.2.2",
+      "url": "https://github.com/WebThingsIO/roku-adapter/releases/download/v0.2.2/roku-adapter-0.2.2.tgz",
+      "checksum": "39942ed5e34b5c0b1e46f9ffe7d0a2e2297e655d1d26181c2411789f4a294fc9",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
